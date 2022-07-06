@@ -1,0 +1,31 @@
+[[questions]]
+question = "When did Nigeria gain independent?"
+answers = ["1960"]
+options = ["1961", "1962", "1963"]
+hint = "Nigeria is a country in West Africa"
+explanation = "Independence is the day Nigeria began to govern their affairs"
+
+[[questions]]
+question = "What is the full meaning of SQL?"
+answers = ["Structural Query Language"]
+options = ["Special Query Lesson", "Special Question Language", "Structural Question Language"]
+
+[[questions]]
+question = "Which of the following is not a type of database?"
+answers = ["JavaDB"]
+options = ["MySQL", "MongoDB", "PostgreSQL"]
+explanation = """Database are tools that are used to store,
+retrieve, update and delete data"""
+
+[[questions]]
+question = "Which of the following is programming language?"
+answers = ["Python"]
+options = ["CSS", "HTML", "for loop"]
+explanation = """Programming language are tools used to pass instruction to computers.
+Examples of programming languages are JavaScript, Java, Python etc """
+
+[[questions]]
+question = "Which of the following are prime numbers?"
+answers = ["two", "three"]
+options = ["Four", "nine"]
+hint = "Prime numbers are divisible by 1 and itself only."
